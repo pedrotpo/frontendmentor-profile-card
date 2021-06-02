@@ -109,14 +109,13 @@ span {
 }
 
 .stats {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
+  display: -ms-grid;
+  display: grid;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  -ms-flex-pack: distribute;
-      justify-content: space-around;
+  -ms-grid-columns: 1fr 1fr 1fr;
+      grid-template-columns: 1fr 1fr 1fr;
   height: 87px;
   border-top: 1px solid rgba(150, 150, 150, 0.1);
   padding: 0 10px;

@@ -99,9 +99,9 @@ span {
 
 
 .stats {
-    display: flex;
+    display: grid;
     align-items: center;
-    justify-content: space-around;
+    grid-template-columns: 1fr 1fr 1fr;
     height: 87px;
     border-top: 1px solid hsla(0, 0%, 59%, 0.1);
     padding: 0 10px;
