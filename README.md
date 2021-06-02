@@ -13,9 +13,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -55,7 +52,7 @@ In the above example, the component will be set to the exact center of the scree
 
 ### Continued development
 
-CSS Grids are not something I usually work with on a daily, but it should. Its a powerfull tool, and can be very useful in situations where the design grid follows a somewhat rigid composition.
+CSS Grids are not something I usually work with on a daily, but it should. Its a powerful tool, and can be very useful in situations where the design grid follows a somewhat rigid composition.
 
 ### Useful resources
 
